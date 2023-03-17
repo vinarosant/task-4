@@ -1,0 +1,85 @@
+body{
+	background: #ffffff00;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.content{
+	background: #dcdcdc67;
+	font-size: 12px;
+	border: 0;
+	border-color: #dcdcdc67;
+	color: #A9A9A9;
+}
+
+.login{
+	background: #4eb6fc;
+	color: #daf0ff;
+	font-size: 15px;
+	cursor: pointer;
+	border: 0;
+	border-radius: 5px;
+}
+
+.or{
+	color: #A9A9A9;
+	font-size: 12px;
+	border-style: solid;
+}
+
+.fb{
+	font-size: 14px;
+}
+
+.pass{
+	font-size: 12px;
+}
+
+.acc{
+	font-size: 14px;
+	float: right;
+	margin-top: -185px;
+	margin-right: 250px;
+	border: 0;
+	border-color: #dcdcdc67;
+	
+}
+
+.app{
+	font-size: 14px;
+	cursor: pointer;
+	float: right;
+	margin-top: -140px;
+	margin-right: 285px;
+}
+
+.footer{
+	font-size:smaller;
+	margin-right: 10px;
+	margin-top: -10px;
+	margin-bottom: 40px;
+	color: #A9A9A9;
+}
+
+.combo{
+	color: #A9A9A9;
+	border: 0px;
+}
+
+.garis1{
+	float: left;
+	border-color: #ffffff;
+}
+
+.garis2{
+	float: right;
+	border-color: #ffffff;
+}
+
+.tabel1{
+	float: right;
+	margin-top: -590px;
+	margin-right: 250px;
+	border: 0;
+	border-color: #dcdcdc67;
+}
+
